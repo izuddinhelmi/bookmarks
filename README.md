@@ -45,3 +45,13 @@ Submit pull request to add bookmarks
 
 ### Stock Videos
 - http://www.lifeofvids.com
+
+### Email Templating Tools & References
+- http://templates.mailchimp.com/resources/email-client-css-support/
+- http://templates.mailchimp.com/resources/html-to-text/
+- http://templates.mailchimp.com/resources/inline-css/
+- https://www.campaignmonitor.com/guides/
+
+### AngularJS Tutorials
+- http://campus.codeschool.com/courses/shaping-up-with-angular-js/
+- https://code4startup.com/projects/ninja-learn-angularjs-firebase-by-cloning-udemy
