@@ -55,3 +55,6 @@ Submit pull request to add bookmarks
 ### AngularJS Tutorials
 - http://campus.codeschool.com/courses/shaping-up-with-angular-js/
 - https://code4startup.com/projects/ninja-learn-angularjs-firebase-by-cloning-udemy
+
+### Sketch Tutorials
+- http://teamtreehouse.com/library/sketch-basics
